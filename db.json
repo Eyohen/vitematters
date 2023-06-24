@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Innosone",
+      "email": "inno@testing.com",
+      "phone": "+22328234234",
+      "interest": "collaboration",
+      "industry": "Automobile",
+      "city": "Lagos"
+    },
+    {
+      "id": 2,
+      "name": "Innoson",
+      "email": "inno@testing.com",
+      "phone": "+22328234234",
+      "interest": "collaboration",
+      "industry": "Automobile",
+      "city": "Lagos"
+    },
+    {
+      "id": 3,
+      "name": "Firstbank",
+      "email": "first@testing.com",
+      "phone": "+22328234234",
+      "interest": "non-profit",
+      "industry": "Banking",
+      "city": "Lagos"
+    },
+    {
+      "id": 4,
+      "name": "Panasonic",
+      "email": "pan@testing.com",
+      "phone": "+22328234234",
+      "interest": "networking",
+      "industry": "Electronics",
+      "city": "Lagos"
+    },
+    {
+      "id": 5,
+      "name": "EduTech",
+      "email": "edutech@testing.com",
+      "phone": "+22328234234",
+      "interest": "non-profit",
+      "industry": "Education",
+      "city": "Lagos"
+    },
+    {
+      "id": 6,
+      "name": "FinTech",
+      "email": "fintech@testing.com",
+      "phone": "+22328234234",
+      "interest": "networking",
+      "industry": "Finance",
+      "city": "Lagos"
+    },
+    {
+      "name": "Henry Love",
+      "email": "henry@gmail.com",
+      "phone": "1234567",
+      "interest": "tech",
+      "industry": "technology",
+      "city": "USA",
+      "id": 7
+    }
+  ]
+}
